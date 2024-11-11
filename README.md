@@ -1,4 +1,4 @@
-This function has been re-written with ChatGPT help form this one: https://gist.github.com/matt2005/744b5ef548cc13d88d0569eea65f5e5b
+This function has been re-written with ChatGPT help from this one: https://gist.github.com/matt2005/744b5ef548cc13d88d0569eea65f5e5b
 
 
 1. Install rust if not already available: curl https://sh.rustup.rs -sSf | sh
